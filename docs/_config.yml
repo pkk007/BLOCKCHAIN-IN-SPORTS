@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+
+title: Project Tribal
+description: > # this means to ignore newlines until "baseurl:"
+  A system based on ethereum blockchain for FCBayernHackDays.
